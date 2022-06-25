@@ -16,6 +16,14 @@
       "url": "https://download.jetbrains.com/datagrip/datagrip-2022.1.1.tar.gz",
       "version-major-minor": "2022.1.1"
     },
+    "gateway": {
+      "update-channel": "Gateway RELEASE",
+      "url-template": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-{version}.tar.gz",
+      "version": "222.3153.1",
+      "sha256": "8e9fd35159364f71370c633b16ba617d7afdd09025d0ba4145454e26ca799404",
+      "url": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-222.3153.1.tar.gz",
+      "version-major-minor": "222.3153.1"
+    },
     "goland": {
       "update-channel": "GoLand RELEASE",
       "url-template": "https://download.jetbrains.com/go/goland-{version}.tar.gz",
@@ -114,6 +122,14 @@
       "url": "https://download.jetbrains.com/datagrip/datagrip-2022.1.1.dmg",
       "version-major-minor": "2022.1.1"
     },
+    "gateway": {
+      "update-channel": "Gateway RELEASE",
+      "url-template": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-{version}.dmg",
+      "version": "222.3153.1",
+      "sha256": "09f0e34ffe7919d5f506995beb2ec5e7e981aea387f08162ba88ba3b690d0479",
+      "url": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-222.3153.1.dmg",
+      "version-major-minor": "222.3153.1"
+    },
     "goland": {
       "update-channel": "GoLand RELEASE",
       "url-template": "https://download.jetbrains.com/go/goland-{version}.dmg",
@@ -211,6 +227,14 @@
       "sha256": "2ba92ed34366b111a39ba0632d91dbaf232633f5f5557a208dd8ab7696179b6f",
       "url": "https://download.jetbrains.com/datagrip/datagrip-2022.1.1-aarch64.dmg",
       "version-major-minor": "2022.1.1"
+    },
+    "gateway": {
+      "update-channel": "Gateway RELEASE",
+      "url-template": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-{version}-aarch64.dmg",
+      "version": "222.3153.1",
+      "sha256": "0aa05af4ee3bcdd16f620dc76cace5aa0e9690017cab4fea3dfd04fd816524dc",
+      "url": "https://download.jetbrains.com/idea/gateway/JetBrainsGateway-222.3153.1-aarch64.dmg",
+      "version-major-minor": "222.3153.1"
     },
     "goland": {
       "update-channel": "GoLand RELEASE",
