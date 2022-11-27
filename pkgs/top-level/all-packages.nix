@@ -34841,6 +34841,8 @@ with pkgs;
 
   teeworlds = callPackage ../games/teeworlds { };
 
+  technic-launcher = callPackage ../games/technic-launcher { };
+
   tengine = callPackage ../servers/http/tengine {
     openssl = openssl_1_1;
     modules = with nginxModules; [ rtmp dav moreheaders modsecurity-nginx ];
