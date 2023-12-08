@@ -30794,6 +30794,8 @@ with pkgs;
 
   caerbannog = callPackage ../applications/misc/caerbannog { };
 
+  calmly-writer = callPackage ../applications/editors/calmly-writer { };
+
   cardo = callPackage ../data/fonts/cardo { };
 
   cage = callPackage ../applications/window-managers/cage {
